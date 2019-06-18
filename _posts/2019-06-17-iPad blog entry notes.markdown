@@ -1,9 +1,6 @@
 ---
 layout: post
 title: iPad and the Joy of Computing
-category: feature
-sharing:
-    twitter: Quick Coffe is not an iPad blog, but it starts with an iPad-focused post
 ---
 
 Let’s get this out of the way first. This is not an iPad blog. There will be iPad-related entries here (this is one of them), sure, but I plan to cover a much wider array of topics in general. So probably, this is not the best introduction to Quick Coffee. 
